@@ -1,0 +1,20 @@
+Command to run 
+
+terrform init   -> this will download the teraform provider sonfiguration 
+teraform plan 
+teraform apply 
+
+teraform apply  -> this will not work again.. beacause teraform was as a decorative manner,
+                    means we give eject what we want
+
+teraform distroy
+
+teraform apply --auto-approve
+
+terraform state list
+terraform state show 
+terrform refersh
+terrform distroy -taget <> 
+
+terraform apply -var-file example.tfvars
+
